@@ -7,29 +7,6 @@
 
 // BEGIN_FILE_DIR
 #define FILE_DIR .
-#define FILE_DIR ".git"
-#define FILE_DIR ".git/hooks"
-#define FILE_DIR ".git/info"
-#define FILE_DIR ".git/logs"
-#define FILE_DIR ".git/logs/refs"
-#define FILE_DIR ".git/logs/refs/heads"
-#define FILE_DIR ".git/logs/refs/remotes"
-#define FILE_DIR ".git/logs/refs/remotes/origin"
-#define FILE_DIR ".git/objects"
-#define FILE_DIR ".git/objects/8b"
-#define FILE_DIR ".git/objects/99"
-#define FILE_DIR ".git/objects/b6"
-#define FILE_DIR ".git/objects/e0"
-#define FILE_DIR ".git/objects/ea"
-#define FILE_DIR ".git/refs"
-#define FILE_DIR ".git/refs/heads"
-#define FILE_DIR ".git/refs/remotes"
-#define FILE_DIR ".git/refs/remotes/origin"
-#define FILE_DIR "demo"
-#define FILE_DIR "upweb"
-#define FILE_DIR "upweb/action"
-#define FILE_DIR "upweb/core"
-#define FILE_DIR "upweb/template"
 // END_FILE_DIR
 
 // BEGIN_PREFERENCES
